@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>attempt in creating</title>
+</head>
+<body>
+<div>
+<p> Note sheet </p>
+</div>
+<input type = "text"
+value= "write here"/>
+<input type= "button"
+value= "add the text"/>
